@@ -1,0 +1,15 @@
+answer1
+command to create a new branch 
+git checkout -b assignment2
+
+answer2
+Nodejs is a JavaScript runtime environment that allows js to run on the server side.
+JavaScript is a language that is used to build dynamic webpages.
+
+answer4
+we use the reset command
+git reset
+
+answer5
+simple js program -
+console.log("hello");
