@@ -1,0 +1,9 @@
+1. Create a github repository.
+2. Create a folder you want to add to the github repo.
+3. Open cmd and write the following commands 
+
+git init
+git add .
+git commit -m "any message"
+git remote add origin (copy from github)
+git push

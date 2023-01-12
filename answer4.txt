@@ -1,4 +1,5 @@
 Static website is the stable content that is same for every individual. It consits only of the frontend part. 
 It does not consist of the backend or database. In static web pages, pages will remain the same until someone changes it manually.
 
-In dynamic website, the content keeps changing. It consist of both the frontend and backend part. Dynamic web pages are used where the information is changed frequently
+In dynamic website, the content keeps changing. It consist of both the frontend and backend part. 
+Dynamic web pages are used where the information is changed frequently.
