@@ -1,0 +1,5 @@
+1. To deploy a static website, firstly open the repo on github.
+2. Go to settings
+3. Go to pages
+4. Here, change the branch to master.
+5. Refresh tha page and you will see the website link.
