@@ -1,7 +1,8 @@
-Open the command prompt and run the ssh-keygen command
-2 Files will be created in the folder named id_rsa
-Open the id_rsa file and copy the value of the SSH public key and then save it to the GitHub account.
-Go to github account -> settings ->SSH and GPG keys -> new SSH key -> paste the link there.
+1. Open the command prompt and run the ssh-keygen command.
+2. Go to the locattion and open .ssh file created.
+3. 2 Files will be created in the folder named id_rsa and id_rsa.pub
+4. Open the id_rsa.pub file and copy the value of the SSH public key. 
+5. Go to github account -> settings -> SSH and GPG keys -> new SSH key -> paste the public SSH key there.
 
-Command- ssh-keygen
+Command to generate ssh key : ssh-keygen
 
