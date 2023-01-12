@@ -1,0 +1,30 @@
+answer1
+The architecture of nodes.js has three parts - call stack, node APIs and callback queu.
+Synchronous data comes to the call stack and asynchronous to the node APIs. 
+The data moves from call stack to node APIs and then into the callback queue.
+
+answer2
+Node,js is non blocking because it proceeds with the execution of the program instead of waiting for long I/O operations.
+It is single threaded because it executes the code in a single sequence.At a given time, only a single task/ call is executed. 
+Execution doesn't wait for the current request to complete and moves to the next request/call.
+
+answer3
+const name = ["Emma", "Jack", "Erica", "Ben"];
+consle.log(name);
+
+answer4
+JSON stands for JavaScript Object Notation. JSON is the universal standard of data exchange. It is very easy to exchange data using json.
+It uses human readable text format which can be parsed and processed easily.
+
+answer5
+const name = ["Emma", "Jack", "Erica", "Ben"];
+name.push();
+name.pop();
+name.sort()
+
+answer6
+var and let are both used for variable declaration in javascript but the difference between them is that var is function scoped and let is block scoped. 
+
+answer7
+primitive datatypes -
+string, boolean, number, null, bigint, undefined, symbol
